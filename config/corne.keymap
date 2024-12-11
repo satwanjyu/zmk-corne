@@ -18,11 +18,11 @@
 #define GAME  7
 
 &mt {
-        tapping-term-ms = <175>;
+        tapping-term-ms = <150>;
         flavor = "balanced";
 };
 &lt {
-        tapping-term-ms = <175>;
+        tapping-term-ms = <150>;
         flavor = "balanced";
 };
 
